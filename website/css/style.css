@@ -131,7 +131,7 @@ table {
     margin-right:auto;
     margin-bottom: 10px;
     margin-top:10px;
-    overflow: auto; 
+    overflow: scroll; 
     width: 100%
 }
 
