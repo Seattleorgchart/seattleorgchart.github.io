@@ -12,7 +12,7 @@ function organisation_chart(all_data, selection_string) {
 
     var selection_string = selection_string
 
-    var total_height = 1500; //Take height and width from size of svg container
+    var total_height = 5000; //Take height and width from size of svg container
 
     var total_width = $(selection_string).width();
 
